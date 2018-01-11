@@ -18,7 +18,7 @@
         "email": "support@infobip.com"
     },
     "license": "Apache-2.0",
-    "minimum-stability": "dev",
+    "minimum-stability": "dist",
     "require": {
         "netresearch/jsonmapper": "^1.0"
     },
